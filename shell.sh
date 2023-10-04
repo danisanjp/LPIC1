@@ -31,4 +31,7 @@ sudo su
 sudo -i
 #inicia shell de inicio interactivo como root
 
+echo $0
+#para saber en que tipo de shell estamos trabajando.
+
 
