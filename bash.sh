@@ -21,5 +21,5 @@ su -
 su root
 #inicio de sesión interactivo sin inicio de sesión.
 
-sudo !"·$%&/()=?¿*^Ñ¨_:;ªZXVCVVBBNNMNMQWRTUI^*POLÑ;:
-
+sudo 
+#ejecuta comandos como otro usuario y como root.
