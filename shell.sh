@@ -27,4 +27,8 @@ sudo
 usermod -aG sudo user2
 #añadir user2 al grupo de sudoers (requiere root)
 
+sudo su
+sudo -i
+#inicia shell de inicio interactivo como root
+
 
