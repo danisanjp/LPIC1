@@ -34,4 +34,7 @@ sudo -i
 echo $0
 #para saber en que tipo de shell estamos trabajando.
 
+ps aux | grep bash
+#para saber cuantos bash shell se estan ejecutando en el sistema
+
 
