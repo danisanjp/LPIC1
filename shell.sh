@@ -23,3 +23,8 @@ su root
 
 sudo 
 #ejecuta comandos como otro usuario y como root.
+
+usermod -aG sudo user2
+#añadir user2 al grupo de sudoers (requiere root)
+
+
